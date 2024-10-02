@@ -16,6 +16,8 @@
 `Right-click on the MemeFi bot page and select “Inspect” from the context menu. This will open the browser's developer tools.`
 <br>
 <img src="image/4.jpg">
+..
+<img src="image/5.jpg">
 
 ### Step 4: Navigate to the Console
 `In the developer tools window, switch to the "Console" tab. This is where you'll be pasting the script to automate the turbo spending process.`
