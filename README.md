@@ -4,22 +4,27 @@
 
 ### Step 1: Open Telegram in a Web Browser
 `Open your Telegram account through a web browser. You will be interacting with the MemeFi bot directly from here.`
+<br>
 <img src="image/1.jpg">
 
 ### Step 2: Open the MemeFi Bot
 `Search for and open the MemeFi bot within your Telegram web interface.`
+<br>
 <img src="image/2.jpg">
 
 ### Step 3: Open Developer Tools
 `Right-click on the MemeFi bot page and select “Inspect” from the context menu. This will open the browser's developer tools.`
+<br>
 <img src="image/4.jpg">
 
 ### Step 4: Navigate to the Console
 `In the developer tools window, switch to the "Console" tab. This is where you'll be pasting the script to automate the turbo spending process.`
+<br>
 <img src="image/6.jpg">
 
 ### Step 5: Paste the Script into the Console
 `Copy the script provided below and paste it directly into the console.`
+<br>
 
 <b>javascript:</b>
 
@@ -156,19 +161,23 @@ spendTurbo();
 
 ### Step 6: Execute the Script
 `Once the script is pasted, press Enter and wait for the operation to complete, which may take up to 5 minutes.`
+<br>
 <img src="image/9.jpg">
 
 ### Step 7: Automatic Redirect
 `After a few moments, the page will automatically redirect to a web page where the bot continues to work.`
+<br>
 <img src="image/10.jpg">
 
 ### Step 8: Start Turbo Spending
 `Once the MemeFi bot is fully loaded, locate and press the "Turbo Spend" button to start spending your turbo tokens.`
+<br>
 <img src="image/11.jpg">
 
 
 ### Step 9: Keep the Page Open
 `After starting the turbo spending process, do not close the page or leave it until the process is fully complete.`
+<br>
 <img src="image/12.jpg">
 
 <br>
